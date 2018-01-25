@@ -39,7 +39,7 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 	<title>Curso Despliegue</title>
 </head>
 <body>
-echo "<html><head><title>Despliegue07</title></head><body><h1>Despliegue en nube 1</h1></body></html>";
+<h1>Despliegue en nube 1</h1>
 
 <!--
 	<div id="container">
