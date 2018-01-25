@@ -1,4 +1,5 @@
 <?php
+echo "<html><head><title>Despliegue07</title></head><body><h1>Despliegue en nube 1</h1></body></html>";
 /**
  * Requests collector.
  *
